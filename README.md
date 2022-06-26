@@ -25,6 +25,7 @@
 <div>
   <a href="https://github.com/mateus-hamade">
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateus-hamade&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-hamade&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=mateus-hamade&label=Profile%20views&color=0e75b6&style=flat" alt="mateus-hamade"/> -->
