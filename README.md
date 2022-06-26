@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&duration=2000&color=26977C&lines=Bem+vindo(a)+ao+meu+Github!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&duration=2600&color=26977C&lines=Bem+vindo(a)+ao+meu+Github!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 👨‍💻 Atualmente estou cursando Ciência da Computação na Universidade Federal de Ouro Preto
 - 🌱 Estou aprendendo **Python**
