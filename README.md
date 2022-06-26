@@ -1,5 +1,4 @@
-<h1 align="center">Oi 👋, sou Mateus Hamade</h1>
-<h3 align="center">Cursando Ciência da Computação na Universidade Federal de Ouro Preto</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&duration=1400&color=58A6FF&lines=Bem+vindo(a)+ao+meu+Github!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateus-hamade&label=Profile%20views&color=0e75b6&style=flat" alt="mateus-hamade" /> </p>
 
