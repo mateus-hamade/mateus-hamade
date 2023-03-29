@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&duration=2600&color=26977C&lines=Bem+vindo(a)+ao+meu+Github!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 👨‍💻 5º período do bacharelado em Ciência da Computação (Universidade Federal de Ouro Preto)
-- 🌱 Estou aprendendo **Python**
+- 🌱 Estou aprendendo **JavaScript**
 - 📫 Como me encontrar **mateus.hamade@aluno.ufop.edu.br**
 
 <h3 align="left">Idiomas e Ferramentas:</h3>
